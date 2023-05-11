@@ -1,4 +1,3 @@
-
 .. raw:: html
     
     <div>
@@ -6,7 +5,7 @@
         <img src='doc/img/logo-simple-poco-sdk-cocos2dx.png' width='150px' height='150px' alt='poco-sdk for cocos2dx' />
     </div>
 
-poco-sdk
+poco-sdk (with UI Toolkit support)
 ========
 
 This repo contains all implememented poco-sdk, for most popular game engines.
